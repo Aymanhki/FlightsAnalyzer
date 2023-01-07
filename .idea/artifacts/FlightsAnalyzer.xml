@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="FlightsAnalyzer">
+    <output-path>$PROJECT_DIR$/src/main/application/executable/</output-path>
+    <root id="root">
+      <element id="library" level="project" name="mssql-jdbc-11.2.0.jre18" />
+      <element id="archive" name="FlightsAnalyzer.jar">
+        <element id="module-output" name="FlightsAnalyzer" />
+      </element>
+    </root>
+  </artifact>
+</component>
